@@ -27,7 +27,7 @@ jobs:
         env:
           # Для репо <username>.github.io залиш порожнім.
           # Для інших репо: /<назва-репо>
-          NEXT_PUBLIC_BASE_PATH: ""
+          NEXT_PUBLIC_BASE_PATH: "/andriyvergun"
       - uses: actions/upload-pages-artifact@v3
         with:
           path: out
