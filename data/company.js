@@ -5,7 +5,7 @@ const company = {
   nip: "8993049983",
   regon: "544004962",
   address: {
-    street: "Obornicka",
+    street: "Obornicka 105",
     postalCode: "51-114",
     city: "Wrocław",
     country: "Polska",
@@ -18,7 +18,7 @@ const company = {
     { name: "Everything - Daily Planner", url: "" },
   ],
   // Meta-тег із Search Console (тільки значення content="..."), або залиш порожнім
-  googleSiteVerification: "",
+  googleSiteVerification: "f_kJq5aCTiv8_wD5l2Xrprb4QwDgjfnqUGcySL4GGks",
   privacyPolicyUpdated: "2026-11-09",
 };
 
